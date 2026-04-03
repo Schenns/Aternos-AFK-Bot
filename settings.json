@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "Manfred",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "MyFreundeTime.aternos.me",
+    "port": 64159,
     "version": "",
     "try-creative": false
   },
@@ -31,9 +31,9 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "Ich halte den Server online :)",
+        "Besuche unsere Webseite !",
+        "Cheate nicht wenn ja wird es eine härtere Strafe als sonst geben !"
       ]
     },
     "chat-log": true,
